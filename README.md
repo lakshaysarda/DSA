@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/lakshaysarda/DSA/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/lakshaysarda/DSA/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/lakshaysarda/DSA/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/lakshaysarda/DSA/tree/master/0079-word-search) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/lakshaysarda/DSA/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/lakshaysarda/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
