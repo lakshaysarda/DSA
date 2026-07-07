@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/lakshaysarda/DSA/tree/master/0029-divide-two-integers) |
+| [0069-sqrtx](https://github.com/lakshaysarda/DSA/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/lakshaysarda/DSA/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/lakshaysarda/DSA/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/lakshaysarda/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
