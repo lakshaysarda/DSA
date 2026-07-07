@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/lakshaysarda/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/lakshaysarda/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/lakshaysarda/DSA/tree/master/0090-subsets-ii) |
+| [0137-single-number-ii](https://github.com/lakshaysarda/DSA/tree/master/0137-single-number-ii) |
 | [0485-max-consecutive-ones](https://github.com/lakshaysarda/DSA/tree/master/0485-max-consecutive-ones) |
 ## Bit Manipulation
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/lakshaysarda/DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/lakshaysarda/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/lakshaysarda/DSA/tree/master/0090-subsets-ii) |
+| [0137-single-number-ii](https://github.com/lakshaysarda/DSA/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/lakshaysarda/DSA/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/lakshaysarda/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Hash Table
