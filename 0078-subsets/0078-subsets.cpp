@@ -1,34 +1,16 @@
 class Solution {
 public:
-
-    void solve(vector<int>& nums ,vector<vector<int>>&ans , int index ,vector<int>yes){
-
-     // base case
-     if ( index == nums.size()) {
-     ans.push_back(yes);
-     return;
-     }
-
-        yes.push_back(nums[index]);
-        solve(nums , ans , index +1 , yes);
-
-        //track back
-        yes.pop_back();
-        solve(nums , ans , index +1 , yes);
-
-        
-
-
-
-    }
     vector<vector<int>> subsets(vector<int>& nums) {
+        vector<vector<int>> ans;
+        int n = 1 << (nums.size()) ;
 
-        vector<vector<int>>ans;
-        int index =0;
+        for ( int i =0 ; i < n ; i++){
         vector<int>yes;
-
-        solve(nums  , ans , 0 , yes);
+        for ( int j =0 ; j < nums.size(); j++){
+            if ( i & (1 << j)) {
+                yes.push_back(nums[j]);
+            }
+        } ans.push_back(yes);}
         return ans ;
-        
     }
 };
