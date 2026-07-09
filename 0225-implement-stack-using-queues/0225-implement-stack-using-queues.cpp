@@ -8,7 +8,7 @@ public:
     }
     
     void push(int x) {
-
+       
         st.push(x);
         int n =st.size();
         for ( int i =0 ; i <n-1 ;i++ ){
