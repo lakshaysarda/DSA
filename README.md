@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/lakshaysarda/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/lakshaysarda/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/lakshaysarda/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/lakshaysarda/DSA/tree/master/0503-next-greater-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/lakshaysarda/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/lakshaysarda/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/lakshaysarda/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/lakshaysarda/DSA/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/lakshaysarda/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lakshaysarda/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
@@ -141,4 +143,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/lakshaysarda/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/lakshaysarda/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
