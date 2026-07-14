@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/lakshaysarda/DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/lakshaysarda/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1331-rank-transform-of-an-array](https://github.com/lakshaysarda/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lakshaysarda/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2104-sum-of-subarray-ranges](https://github.com/lakshaysarda/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Bit Manipulation
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/lakshaysarda/DSA/tree/master/0239-sliding-window-maximum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lakshaysarda/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/lakshaysarda/DSA/tree/master/0460-lfu-cache) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lakshaysarda/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
