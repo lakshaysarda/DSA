@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lakshaysarda/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/lakshaysarda/DSA/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/lakshaysarda/DSA/tree/master/0205-isomorphic-strings) |
+| [0460-lfu-cache](https://github.com/lakshaysarda/DSA/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/lakshaysarda/DSA/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/lakshaysarda/DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Depth-First Search
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/lakshaysarda/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/lakshaysarda/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/lakshaysarda/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/lakshaysarda/DSA/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/lakshaysarda/DSA/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -197,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/lakshaysarda/DSA/tree/master/0901-online-stock-span) |
+## Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/lakshaysarda/DSA/tree/master/0460-lfu-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/lakshaysarda/DSA/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
