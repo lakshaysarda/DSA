@@ -13,23 +13,22 @@ public:
             }
             return ans;
         }
-        int count =k;
+        
         int n = nums.size();
         int left = 0;
         int right =0;
         int maxi =0;
         queue<pair<int,int>>qu;
-        int l =0;
-        int r=0;
+        
         
 
         while(right<n){
         if (nums[right] == 0){
-            
-            if (count != 0) {
+            // yaha <k hai kyonki agar k=1 bhi hota toh initially qsize =0 toh ek element fit kr paate and then bahar
+            if (qu.size()<k) {
                qu.push({nums[right], right});
                 
-                count--;
+                
                 maxi = max(maxi , right -left+1);
                 right++;
             } else{
