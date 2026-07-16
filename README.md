@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/lakshaysarda/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lakshaysarda/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2104-sum-of-subarray-ranges](https://github.com/lakshaysarda/DSA/tree/master/2104-sum-of-subarray-ranges) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/lakshaysarda/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/lakshaysarda/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/lakshaysarda/DSA/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/lakshaysarda/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/lakshaysarda/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lakshaysarda/DSA/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/lakshaysarda/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/lakshaysarda/DSA/tree/master/0283-move-zeroes) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/lakshaysarda/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/lakshaysarda/DSA/tree/master/0204-count-primes) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/lakshaysarda/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -190,10 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/lakshaysarda/DSA/tree/master/0735-asteroid-collision) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/lakshaysarda/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/lakshaysarda/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/lakshaysarda/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
