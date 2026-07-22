@@ -4,6 +4,8 @@ public: void solve ( vector<int>& nums, int target ,vector<vector<int>> &ans , i
 if ( index == n  ){
     if(target ==0)  
     ans.push_back(answ);
+
+    
     return ;
     
 }
