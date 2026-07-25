@@ -8,12 +8,9 @@ public:
              return false;
             maxi = max(maxi,i+nums[i]);
            
-         
-
-            if (maxi >= n-1){
-                return true;
+           
             }
-        }
+        
         return true ;
     }
 };
