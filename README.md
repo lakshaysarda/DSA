@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/lakshaysarda/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lakshaysarda/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/lakshaysarda/DSA/tree/master/0090-subsets-ii) |
+| [0135-candy](https://github.com/lakshaysarda/DSA/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/lakshaysarda/DSA/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/lakshaysarda/DSA/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/lakshaysarda/DSA/tree/master/0239-sliding-window-maximum) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/lakshaysarda/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lakshaysarda/DSA/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/lakshaysarda/DSA/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/lakshaysarda/DSA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/lakshaysarda/DSA/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/lakshaysarda/DSA/tree/master/0678-valid-parenthesis-string) |
