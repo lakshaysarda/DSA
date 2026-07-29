@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lakshaysarda/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/lakshaysarda/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lakshaysarda/DSA/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/lakshaysarda/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/lakshaysarda/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/lakshaysarda/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Backtracking
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/lakshaysarda/DSA/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/lakshaysarda/DSA/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/lakshaysarda/DSA/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/lakshaysarda/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/lakshaysarda/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/lakshaysarda/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/lakshaysarda/DSA/tree/master/0496-next-greater-element-i) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/lakshaysarda/DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/lakshaysarda/DSA/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/lakshaysarda/DSA/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/lakshaysarda/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/lakshaysarda/DSA/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/lakshaysarda/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/lakshaysarda/DSA/tree/master/0860-lemonade-change) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/lakshaysarda/DSA/tree/master/0015-3sum) |
+| [0435-non-overlapping-intervals](https://github.com/lakshaysarda/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/lakshaysarda/DSA/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/lakshaysarda/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshaysarda/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
