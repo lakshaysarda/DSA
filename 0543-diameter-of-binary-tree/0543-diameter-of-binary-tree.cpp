@@ -1,34 +1,27 @@
 class Solution {
 public:
 
+    int diameter = 0;
+
     int height(TreeNode* root) {
 
-        if (root == NULL)
+        if (root == nullptr)
             return 0;
 
-        return 1 + max(height(root->left), height(root->right));
-    }
+        int leftHeight = height(root->left);
+        int rightHeight = height(root->right);
 
-    void solve(TreeNode* root, int &d) {
+        // Diameter passing through current node
+        diameter = max(diameter, leftHeight + rightHeight);
 
-        if (root == NULL)
-            return;
-
-        int left_h = height(root->left);
-        int right_h = height(root->right);
-
-        d = max(d, left_h + right_h);
-
-        solve(root->left, d);
-        solve(root->right, d);
+        // Return height of current subtree
+        return 1 + max(leftHeight, rightHeight);
     }
 
     int diameterOfBinaryTree(TreeNode* root) {
 
-        int d = 0;
+        height(root);
 
-        solve(root, d);
-
-        return d;
+        return diameter;
     }
 };
