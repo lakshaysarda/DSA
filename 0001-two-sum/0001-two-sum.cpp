@@ -7,8 +7,6 @@ public:
 
         for ( int i =0 ; i< nums.size() ; i++) {
         
-
-        
         int rem = target - nums[i];
         if (maps.find(rem)  != maps.end()) {
        
