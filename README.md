@@ -429,4 +429,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/lakshaysarda/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/lakshaysarda/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/lakshaysarda/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/lakshaysarda/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/lakshaysarda/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
