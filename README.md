@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/lakshaysarda/DSA/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/lakshaysarda/DSA/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/lakshaysarda/DSA/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/lakshaysarda/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/lakshaysarda/DSA/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/lakshaysarda/DSA/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/lakshaysarda/DSA/tree/master/0283-move-zeroes) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/lakshaysarda/DSA/tree/master/0015-3sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/lakshaysarda/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/lakshaysarda/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/lakshaysarda/DSA/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/lakshaysarda/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/lakshaysarda/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/lakshaysarda/DSA/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/lakshaysarda/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/lakshaysarda/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/lakshaysarda/DSA/tree/master/0190-reverse-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/lakshaysarda/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -467,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/lakshaysarda/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/lakshaysarda/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
