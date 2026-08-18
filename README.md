@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/lakshaysarda/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lakshaysarda/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/lakshaysarda/DSA/tree/master/2104-sum-of-subarray-ranges) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/lakshaysarda/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lakshaysarda/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lakshaysarda/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/lakshaysarda/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lakshaysarda/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lakshaysarda/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/lakshaysarda/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Depth-First Search
 |  |
 | ------- |
