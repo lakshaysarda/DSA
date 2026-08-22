@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/lakshaysarda/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/lakshaysarda/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/lakshaysarda/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1020-number-of-enclaves](https://github.com/lakshaysarda/DSA/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lakshaysarda/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/lakshaysarda/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lakshaysarda/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/lakshaysarda/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/lakshaysarda/DSA/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lakshaysarda/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/lakshaysarda/DSA/tree/master/1020-number-of-enclaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lakshaysarda/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Matrix
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/lakshaysarda/DSA/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/lakshaysarda/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/lakshaysarda/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/lakshaysarda/DSA/tree/master/1020-number-of-enclaves) |
 ## Math
 |  |
 | ------- |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/lakshaysarda/DSA/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/lakshaysarda/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/lakshaysarda/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/lakshaysarda/DSA/tree/master/1020-number-of-enclaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/lakshaysarda/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Lifting
 |  |
@@ -536,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/lakshaysarda/DSA/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/lakshaysarda/DSA/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/lakshaysarda/DSA/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
