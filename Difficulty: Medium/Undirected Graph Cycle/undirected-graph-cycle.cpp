@@ -1,63 +1,53 @@
 class Solution {
-  public:
+public:
 
-      bool bfs(int start, vector<int>& vis, vector<vector<int>>& adj) {
+    bool dfs(int node, int parent, vector<int>& vis,
+             vector<vector<int>>& adj) {
 
-          queue<pair<int,int>> q;
+        vis[node] = 1;
 
-          q.push({start, -1});
-          vis[start] = 1;
+        for (auto neighbour : adj[node]) {
 
-          while (!q.empty()) {
+            if (!vis[neighbour]) {
 
-              int node = q.front().first;
-              int parent = q.front().second;
-              q.pop();
+                if (dfs(neighbour, node, vis, adj))
+                    return true;
+            }
 
-              for (auto neighbour : adj[node]) {
+            else if (neighbour != parent) {
+                return true;
+            }
+        }
 
-                  if (!vis[neighbour]) {
+        return false;
+    }
 
-                      vis[neighbour] = 1;
-                      q.push({neighbour, node});
-                  }
+    bool isCycle(int V, vector<vector<int>>& edges) {
 
-                  else if (neighbour != parent) {
-                      return true;
-                  }
-              }
-          }
+        vector<vector<int>> adj(V);
 
-          return false;
-      }
+        // Build adjacency list
+        for (auto edge : edges) {
 
-      bool isCycle(int V, vector<vector<int>>& edges) {
+            int u = edge[0];
+            int v = edge[1];
 
-          // Create adjacency list
-          vector<vector<int>> adj(V);
+            adj[u].push_back(v);
+            adj[v].push_back(u);
+        }
 
-          for (auto edge : edges) {
+        vector<int> vis(V, 0);
 
-              int u = edge[0];
-              int v = edge[1];
+        // Handle multiple components
+        for (int i = 0; i < V; i++) {
 
-              adj[u].push_back(v);
-              adj[v].push_back(u);
-          }
+            if (!vis[i]) {
 
-          // Visited array
-          vector<int> vis(V, 0);
+                if (dfs(i, -1, vis, adj))
+                    return true;
+            }
+        }
 
-          // Multiple components
-          for (int i = 0; i < V; i++) {
-
-              if (!vis[i]) {
-
-                  if (bfs(i, vis, adj))
-                      return true;
-              }
-          }
-
-          return false;
-      }
-  };
+        return false;
+    }
+};
