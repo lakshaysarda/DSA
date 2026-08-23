@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lakshaysarda/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lakshaysarda/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/lakshaysarda/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/lakshaysarda/DSA/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lakshaysarda/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/lakshaysarda/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/lakshaysarda/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/lakshaysarda/DSA/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/lakshaysarda/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lakshaysarda/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/lakshaysarda/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/lakshaysarda/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/lakshaysarda/DSA/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/lakshaysarda/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/lakshaysarda/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/lakshaysarda/DSA/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/lakshaysarda/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Trie
 |  |
@@ -562,4 +565,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/lakshaysarda/DSA/tree/master/0785-is-graph-bipartite) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/lakshaysarda/DSA/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
