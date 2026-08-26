@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/lakshaysarda/DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/lakshaysarda/DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/lakshaysarda/DSA/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/lakshaysarda/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/lakshaysarda/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/lakshaysarda/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lakshaysarda/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/lakshaysarda/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/lakshaysarda/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/lakshaysarda/DSA/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/lakshaysarda/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/lakshaysarda/DSA/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/lakshaysarda/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/lakshaysarda/DSA/tree/master/0231-power-of-two) |
