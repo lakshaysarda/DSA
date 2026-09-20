@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/lakshaysarda/DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/lakshaysarda/DSA/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/lakshaysarda/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/lakshaysarda/DSA/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/lakshaysarda/DSA/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/lakshaysarda/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/lakshaysarda/DSA/tree/master/0402-remove-k-digits) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/lakshaysarda/DSA/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/lakshaysarda/DSA/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/lakshaysarda/DSA/tree/master/0137-single-number-ii) |
+| [0179-largest-number](https://github.com/lakshaysarda/DSA/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/lakshaysarda/DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/lakshaysarda/DSA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshaysarda/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/lakshaysarda/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lakshaysarda/DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/lakshaysarda/DSA/tree/master/0135-candy) |
+| [0179-largest-number](https://github.com/lakshaysarda/DSA/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/lakshaysarda/DSA/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/lakshaysarda/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/lakshaysarda/DSA/tree/master/0455-assign-cookies) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/lakshaysarda/DSA/tree/master/0015-3sum) |
+| [0179-largest-number](https://github.com/lakshaysarda/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lakshaysarda/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/lakshaysarda/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/lakshaysarda/DSA/tree/master/0347-top-k-frequent-elements) |
