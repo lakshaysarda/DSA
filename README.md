@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/lakshaysarda/DSA/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/lakshaysarda/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/lakshaysarda/DSA/tree/master/0231-power-of-two) |
+| [0507-perfect-number](https://github.com/lakshaysarda/DSA/tree/master/0507-perfect-number) |
 | [0973-k-closest-points-to-origin](https://github.com/lakshaysarda/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/lakshaysarda/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/lakshaysarda/DSA/tree/master/1903-largest-odd-number-in-string) |
