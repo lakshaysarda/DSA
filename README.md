@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lakshaysarda/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/lakshaysarda/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lakshaysarda/DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/lakshaysarda/DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/lakshaysarda/DSA/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/lakshaysarda/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/lakshaysarda/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/lakshaysarda/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/lakshaysarda/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/lakshaysarda/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/lakshaysarda/DSA/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/lakshaysarda/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/lakshaysarda/DSA/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/lakshaysarda/DSA/tree/master/0507-perfect-number) |
@@ -710,4 +712,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lakshaysarda/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lakshaysarda/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/lakshaysarda/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/lakshaysarda/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
