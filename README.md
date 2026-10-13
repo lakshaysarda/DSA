@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/lakshaysarda/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/lakshaysarda/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/lakshaysarda/DSA/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/lakshaysarda/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/lakshaysarda/DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/lakshaysarda/DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/lakshaysarda/DSA/tree/master/0057-insert-interval) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/lakshaysarda/DSA/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/lakshaysarda/DSA/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/lakshaysarda/DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/lakshaysarda/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/lakshaysarda/DSA/tree/master/0200-number-of-islands) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/lakshaysarda/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/lakshaysarda/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/lakshaysarda/DSA/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/lakshaysarda/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/lakshaysarda/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/lakshaysarda/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/lakshaysarda/DSA/tree/master/0069-sqrtx) |
